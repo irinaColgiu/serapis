@@ -1,4 +1,4 @@
-serapis
+serapis (incomplete documentation, partially obsolete)
 =======
 
 ##How to run the project - (on Ubuntu)
@@ -27,7 +27,7 @@ serapis
 
  // you can start it also without to --noreload, but from my experience, the automatic restart of the server didn't work so well. 
 
-5. Open http://127.0.0.1:8000/serapis/upload/ in your browser.
+5. Open http://127.0.0.1:8000/serapis/upload/ in your browser <obsolete>.
 
 
 
